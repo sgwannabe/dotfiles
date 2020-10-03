@@ -100,3 +100,6 @@ weight of his changes and tweaks inspired him to finally roll his own. But Ryan'
 dotfiles were an easy way to get into bash customization, and then to jump ship
 to zsh a bit later. A decent amount of the code in these dotfiles stem or are
 inspired from Ryan's original project.
+
+## 누락 패키지 설치
+sudo gem install colorls -n /usr/local/bin
